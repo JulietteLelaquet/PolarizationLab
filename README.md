@@ -7,8 +7,7 @@ I developed this project independently, outside my university coursework, to bet
 
 The app is built with Streamlit and allows users to change optical parameters and visualize their effects on reflection and transmission.
 
-![PolarizationLab interface](<img width="242" height="565" alt="image_polarizationLab" src="https://github.com/user-attachments/assets/42c2b317-849d-4694-a296-304102d3c435" />
-)
+![PolarizationLab interface](image_polarizationLab.png)
 
 ## What it does
 
