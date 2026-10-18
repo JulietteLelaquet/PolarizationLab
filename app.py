@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.title("Polarisation Labo")
+st.title("PolarizationLab")
 st.write("Interface TE / TM – première version")
 
 # Interface utilisateur
